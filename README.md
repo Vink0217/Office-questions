@@ -11,7 +11,7 @@ This repository contains a set of Python questions solved by **Vinayak** and **A
 
 - **Assignment 2**  
   Contains all the Python solution files for Assignment 2.
-  - **Output files/**  
+  - **Input Output files/**  
     Contains all output files generated from the code, including `.txt` and `.csv` files.
 
 
